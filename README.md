@@ -13,4 +13,6 @@ An advanced AI system that detects skin diseases from images and provides struct
   TensorFlow/Keras – For training deep learning model<br>
   Streamlit – For an interactive web UI<br>
   OpenCV & PIL – For image processing<br>
-  Google Gemini AI – To fetch medical explanations
+  Google Gemini AI – To fetch medical explanations<br>
+
+Note: The trained model is not uploaded

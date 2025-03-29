@@ -1,13 +1,7 @@
 streamlit
-opencv-python-headless
 numpy
-torch
-torchvision
-torchaudio
-ultralytics
+tensorflow
+opencv-python
 pillow
-pandas
-scikit-learn
-matplotlib
-seaborn
-tqdm
+google-generativeai
+regex

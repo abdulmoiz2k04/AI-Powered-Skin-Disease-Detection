@@ -12,7 +12,7 @@ GENAI_API_KEY = "YOUR_KEY"
 genai.configure(api_key=GENAI_API_KEY)
 gemini_model = genai.GenerativeModel("gemini-1.5-pro")
 
-model = tf.keras.models.load_model(r"D:\Coding 2.0\AI Projects\Skin Disease Detection\skin_disease_model_5000.h5")
+model = tf.keras.models.load_model("skin_disease_model_5000.h5")
 
 # disease labels
 label_map = {

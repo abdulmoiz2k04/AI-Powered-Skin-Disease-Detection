@@ -8,7 +8,7 @@ from PIL import Image
 import re
 
 # Gemini AI
-GENAI_API_KEY = "AIzaSyDNzJvw8x2zfoqDLAVde0yWSHWOSXTBQ30"  
+GENAI_API_KEY = "YOUR_KEY"  
 genai.configure(api_key=GENAI_API_KEY)
 gemini_model = genai.GenerativeModel("gemini-1.5-pro")
 
